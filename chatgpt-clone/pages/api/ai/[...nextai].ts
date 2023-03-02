@@ -3,7 +3,7 @@ import NextAI from 'nextai'
 export default NextAI({
     Providers: {
         OpenAi: {
-            apiKey: 'd'
+            apiKey: process.env.OPENAI ? process.env.OPENAI  : ''
         }
     }
 })

@@ -14,10 +14,11 @@
     "@types/react-dom": "18.0.11",
     "eslint": "8.35.0",
     "eslint-config-next": "13.2.1",
+    "nai": "file:nai-1.0.0.tgz",
     "next": "13.2.1",
+    "nextai": "file:./nai-1.0.0.tgz",
     "react": "18.2.0",
     "react-dom": "18.2.0",
-    "typescript": "4.9.5",
-    "nextai": "file:./nai-1.0.0.tgz"
+    "typescript": "4.9.5"
   }
 }
